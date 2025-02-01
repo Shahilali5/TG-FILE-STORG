@@ -35,7 +35,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 - Step 3: Edit Deploy link button! and change to your USERNAME and REPO Name.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Your_Github_user_Name/Your_Repo_Name)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shahilali5/TG-FILE-STORG)
 
 ## Tools Used 🧰
 - Language Used [<img src="https://telegra.ph/file/960ed8709acaf8c68b894.jpg" width="100" height="30">](https://www.python.org/)
@@ -51,7 +51,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 <img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
 <a href="https://telegram.dog/Ns_Anonymous"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 <a href="https://github.com/Ns-AnoNymouS"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
-<a href="https://youtube.com/channel/UC9NnqJ63aSzv457iUMM06vQ"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+<a href="https://www.youtube.com/@TERROR-2.O"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 <p align="left">
 </p>
 
