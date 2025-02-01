@@ -5,8 +5,8 @@ This is a telegram bot helps you to store your files and get the share able perm
 
 <a href="https://telegram.dog/FileStore_Nsbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/Ns-Bots/TG-File-Store)
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Ns_AnoNymouS)
+[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Shahil440)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Shahil440)
 
 ![Maxx](https://telegra.ph/file/033408792afc4d4f1f8f6.png) 🤖
 
@@ -20,7 +20,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 
 - `UPDATE_CHANNEL:` Your telegram channel username without @ to add force sub. Leave it empty if you don't wanna add. Example: Ns_bot_updates
 
-- `OWNER_ID:` Get your user id from [MissRose <img src="https://telegra.ph/file/0a36032bd2221c8d4209d.jpg" width="30" height="30">](https://telegram.dog/MissRose_bot) or [File Store Nsbot <img src="https://telegra.ph/file/bdd3352951be090a56590.jpg" width="30" height="30">](https://telegram.dog/FileStore_Nsbot)
+- `OWNER_ID:` Get your user id from [MissRose <img src="https://telegra.ph/file/0a36032bd2221c8d4209d.jpg" width="30" height="30">](https://telegram.dog/MissRose_bot) or [File Store Nsbot <img src="https://telegra.ph/file/bdd3352951be090a56590.jpg" width="30" height="30">](https://telegram.dog/A1_fileStorgeRobot)
 
 - `IS_PRIVATE:` Add True if you want to use private ,make sure u add AUTH_USERS if you are using IS_PRIVATE
 
@@ -46,24 +46,12 @@ This is a telegram bot helps you to store your files and get the share able perm
 👲 <b>DEV</b>
 
 <p align="middle">
-<img src="https://telegra.ph/file/2a3eab01d1201f40b3ffc.jpg" width="150" height="150"><br>
+<img src="https://github.com/Shahilali5/ChampuMusic/blob/24768aaf743383e1c29adb279f7b802854101436/assets/Black%20and%20Blue%20Creative%20Animated%20Gaming%20Youtube%20Intro%20Video_20250129_093831_0001.gif" width="150" height="150"><br>
 <img src="https://badgen.net/badge/Name/Anonymous/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
-<a href="https://telegram.dog/Ns_Anonymous"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/Shahil440"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 <a href="https://github.com/Ns-AnoNymouS"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
 <a href="https://www.youtube.com/@TERROR-2.O"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-<p align="left">
-</p>
-
-👲 <b>Co-DEV</b>
-
-<p align="middle">
-<img src="https://telegra.ph/file/7f6e81d4546efbea0f218.jpg" width="150" height="150"><br>
-<img src="https://badgen.net/badge/Name/MaxxRider/FF33FF?icon=awesome&labelColor=0080FF"></a>
-<img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
-<a href="https://telegram.dog/MaxxRider"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
-<a href="https://github.com/MaxxRider"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
-<a href="https://youtu.be/TbMX6aN3GgY"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 <p align="left">
 </p>
 
